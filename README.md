@@ -17,4 +17,4 @@ In this project, I have analysed a bike company's data to understand different f
 
 ## Conclusion
 <li>Middle Age Group (31-54) shows the highest number of purchases. The management should ensure that it should target this segmen of population.</li>
-<li></li>An inverse linear relationship indicates that as the commuters' distance increases, they prefer other means of transportation other than bike riding so the company should focus on short distance commuters.</li>
+<li>An inverse linear relationship indicates that as the commuters' distance increases, they prefer other means of transportation other than bike riding so the company should focus on short distance commuters.</li>
